@@ -103,3 +103,6 @@ dj_venv/
 
 # mypy
 .mypy_cache/
+
+# vscode
+.vscode/
