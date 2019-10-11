@@ -89,7 +89,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-dj_venv/
 dj-env/
 
 # Spyder project settings
